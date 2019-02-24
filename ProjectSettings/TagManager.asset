@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - BackgroundTiles
+  - BlockTiles
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 987262557
+    locked: 0
+  - name: Tiles
+    uniqueID: 3650091275
     locked: 0

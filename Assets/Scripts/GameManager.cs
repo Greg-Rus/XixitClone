@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements;
+using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random;
 
 public class GameManager : MonoBehaviour
@@ -13,9 +15,7 @@ public class GameManager : MonoBehaviour
 
     public TileTrioController TileTrioController;
 
-    public float SpawnHeight = 7f;
-    public float SpawnBoundLeft = -2f;
-    public float SpawnBoundRight = 2;
+    public float tileDropTime = 0.5f;
 
     public Vector3 TrioSpawnPosition;
 
@@ -26,12 +26,14 @@ public class GameManager : MonoBehaviour
     private Tile[,] _tiles2DArray;
 
     public int[] NextFreeColumnRow = {0, 0, 0, 0, 0};
+    public List<Tile> droppingTiles; 
 
     // Use this for initialization
     void Start ()
     {
         _currentFallingSpeed = StartFallingSpeed;
         _tiles2DArray = new Tile[xDimension, yDimension];
+        droppingTiles = new List<Tile>();
     }
 	
 	// Update is called once per frame
@@ -75,14 +77,20 @@ public class GameManager : MonoBehaviour
         {
             AddTileToColumn(tile, TileTrioController.CurrentColumnIndex);
         }
+
+        TileTrioController.enabled = false;
         CheckMatches(TileTrioController.Tiles);
-        ResetTrio();
+
     }
 
     private void AddTileToColumn(Tile tile, int column)
     {
         var x = column;
         var y = NextFreeColumnRow[column];
+        if (y > yDimension -1)
+        {
+            SceneManager.LoadScene(0);
+        }
         _tiles2DArray[x, y] = tile;
         tile.SetPosition(new Vector2Int(x, y));
         tile.transform.parent = transform;
@@ -102,11 +110,13 @@ public class GameManager : MonoBehaviour
             tile.SetParent(TileTrioController.TileParent);
             TileTrioController.Tiles[i] = tile;
         }
+        TileTrioController.enabled = true;
+        //ValidateBoard();
     }
 
     private TileColor GetRandomGemColorSprite()
     {
-        var randomColorNumber = Random.Range(0, 6);  
+        var randomColorNumber = Random.Range(0, 5);  
         return (TileColor)randomColorNumber; 
     }
 
@@ -127,10 +137,16 @@ public class GameManager : MonoBehaviour
         var matches = new List<Tile>();
         var neighbors = new List<Tile>
         {
+            tile,
             GetTileAtCoordinates(tile.GridPosition + Vector2Int.right),
             GetTileAtCoordinates(tile.GridPosition + Vector2Int.left),
             GetTileAtCoordinates(tile.GridPosition + Vector2Int.up),
-            GetTileAtCoordinates(tile.GridPosition + Vector2Int.down)
+            GetTileAtCoordinates(tile.GridPosition + Vector2Int.up + Vector2Int.right),
+            GetTileAtCoordinates(tile.GridPosition + Vector2Int.up + Vector2Int.left),
+            GetTileAtCoordinates(tile.GridPosition + Vector2Int.down),
+            GetTileAtCoordinates(tile.GridPosition + Vector2Int.down + Vector2Int.right ),
+            GetTileAtCoordinates(tile.GridPosition + Vector2Int.down + Vector2Int.left ),
+
         };
         foreach (var neighbor in neighbors)
         {
@@ -145,67 +161,72 @@ public class GameManager : MonoBehaviour
 
     private void RemoveMatches(HashSet<Tile> matches)
     {
+        droppingTiles.Clear();
         foreach (var match in matches)
         {
             RemoveTileAtCoordinates(match.GridPosition);
             match.DeSpawn();
         }
 
-        var movedTiles = new List<Tile>();
 
         for (int x = 0; x < xDimension; x++)
         {
-            int holes = 0;
+            bool holes = false;
             for (int y = 0; y < yDimension; y++)
             {
                 var tile = GetTileAtCoordinates(new Vector2Int(x, y));
 
                 if (tile == null)
                 {
-                    holes++;
+                    holes = true;
                 }
-                else if(holes > 0)
+                else if(holes)
                 {
                     RemoveTileAtCoordinates(tile.GridPosition);
-                    tile.SetPosition(tile.GridPosition + Vector2Int.down * holes);
+                    tile.SetPosition(tile.GridPosition + Vector2Int.down);
                     SetTileAtCoordinates(tile, tile.GridPosition);
-                    movedTiles.Add(tile);
+                    droppingTiles.Add(tile);
                 }
             }
         }
 
-        UpdateFreeColumnRows();
-        if(movedTiles.Count > 0) CheckMatches(movedTiles.ToArray());
+        if (droppingTiles.Count > 0)
+        {
+            StartCoroutine(DropBlocks());
+        }
+        else
+        {
+            ResetTrio();
+        }
     }
 
     private List<Tile> EvaluateNeighbors(Tile tile)
     {
         var similarNeighbors = new List<Tile>();
 
-        var left = GetTileAtCoordinates(tile.GridPosition + Vector2Int.left);
-        var right = GetTileAtCoordinates(tile.GridPosition + Vector2Int.right);
-        if (left != null && right != null)
+        similarNeighbors.AddRange(EvaluateNeighbor(tile, Vector2Int.up, Vector2Int.down));
+        similarNeighbors.AddRange(EvaluateNeighbor(tile, Vector2Int.left, Vector2Int.right));
+        similarNeighbors.AddRange(EvaluateNeighbor(tile, Vector2Int.up + Vector2Int.left, Vector2Int.down + Vector2Int.right));
+        similarNeighbors.AddRange(EvaluateNeighbor(tile, Vector2Int.down + Vector2Int.left, Vector2Int.up + Vector2Int.right));
+
+        return similarNeighbors;
+    }
+
+    private List<Tile> EvaluateNeighbor(Tile tile, Vector2Int firstNeighbor, Vector2Int secondNeighbor)
+    {
+        var similarNeighbors = new List<Tile>();
+        var firstNeighborTile = GetTileAtCoordinates(tile.GridPosition + firstNeighbor);
+        var secondNeighborTile = GetTileAtCoordinates(tile.GridPosition + secondNeighbor);
+        if (firstNeighborTile != null && secondNeighborTile != null)
         {
-            if (left.TileColor == tile.TileColor && right.TileColor == tile.TileColor)
+            if (firstNeighborTile.TileColor == tile.TileColor && secondNeighborTile.TileColor == tile.TileColor)
             {
-                similarNeighbors.Add(left);
-                similarNeighbors.Add(right);
+                similarNeighbors.Add(firstNeighborTile);
+                similarNeighbors.Add(secondNeighborTile);
                 similarNeighbors.Add(tile);
+                Debug.DrawLine(firstNeighborTile.transform.position, secondNeighborTile.transform.position, Color.green, 0.2f);
             }
         }
-
-        var top = GetTileAtCoordinates(tile.GridPosition + Vector2Int.up);
-        var bottom = GetTileAtCoordinates(tile.GridPosition + Vector2Int.down);
-        if (top != null && bottom != null)
-        {
-            if (top.TileColor == tile.TileColor && bottom.TileColor == tile.TileColor)
-            {
-                similarNeighbors.Add(top);
-                similarNeighbors.Add(bottom);
-                similarNeighbors.Add(tile);
-            }
-        }
-
 
         return similarNeighbors;
     }
@@ -252,6 +273,34 @@ public class GameManager : MonoBehaviour
             }
             NextFreeColumnRow[x] = count;
         }
+
+        
+    }
+
+    private void ValidateBoard()
+    {
+        for (int x = 0; x < xDimension; x++)
+        {
+            for (int y = 0; y < xDimension; y++)
+            {
+                var tile = GetTileAtCoordinates(new Vector2Int(x, y));
+                if (tile != null)
+                {
+                    if (tile.GridPosition.x != x || 
+                        tile.GridPosition.y != y )
+                    {
+                        Debug.LogError("Expected " + x + " " + y +" Grid: " + tile.GridPosition.x + " " + tile.GridPosition.y);
+                    }
+
+                    if (!Mathf.Approximately(tile.transform.position.x, x) ||
+                        !Mathf.Approximately(tile.transform.position.y, y))
+                    {
+                        Debug.LogError("Expected " + x + " " + y + " Position: " + tile.transform.position.x + " " + tile.transform.position.y);
+                    }
+                }
+
+            }
+        }
     }
 
     private void ScoreMatchingTiles(List<Tile> scoringTiles)
@@ -261,5 +310,27 @@ public class GameManager : MonoBehaviour
         {
             tile.DeSpawn();
         }
+    }
+
+    private IEnumerator DropBlocks()
+    {
+        float timer = tileDropTime;
+        while (timer > 0)
+        {
+            foreach (var tile in droppingTiles)
+            {
+                Vector3 newPosition = new Vector3(tile.GridPosition.x, tile.GridPosition.y, 0f) + Vector3.up * (timer / tileDropTime);
+                tile.SetPosition(newPosition);
+            }
+
+            timer -= Time.smoothDeltaTime;
+            yield return new WaitForEndOfFrame();
+        }
+        foreach (var tile in droppingTiles)
+        {
+            tile.SetPosition(tile.GridPosition);
+        }
+        CheckMatches(droppingTiles.ToArray());
+        UpdateFreeColumnRows();
     }
 }

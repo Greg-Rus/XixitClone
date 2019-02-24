@@ -122,7 +122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 20253487}
   - component: {fileID: 20253488}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136,11 +136,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 20253486}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -4, z: 24.38}
+  m_LocalPosition: {x: -2, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 43
+  m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &20253488
 SpriteRenderer:
@@ -174,10 +174,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -197,7 +197,7 @@ GameObject:
   m_Component:
   - component: {fileID: 37184781}
   - component: {fileID: 37184782}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,11 +211,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 37184780}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 6, z: 24.38}
+  m_LocalPosition: {x: 1, y: 6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 25
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &37184782
 SpriteRenderer:
@@ -249,10 +249,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -272,7 +272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 79760499}
   - component: {fileID: 79760500}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -286,11 +286,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 79760498}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 4, z: 24.38}
+  m_LocalPosition: {x: -2, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 49
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &79760500
 SpriteRenderer:
@@ -324,10 +324,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -347,7 +347,7 @@ GameObject:
   m_Component:
   - component: {fileID: 101643866}
   - component: {fileID: 101643867}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -361,11 +361,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 101643865}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 2, z: 24.38}
+  m_LocalPosition: {x: -1, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 34
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &101643867
 SpriteRenderer:
@@ -399,10 +399,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -422,7 +422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 104425005}
   - component: {fileID: 104425006}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -436,11 +436,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 104425004}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: -3, z: 24.38}
+  m_LocalPosition: {x: 1, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &104425006
 SpriteRenderer:
@@ -474,10 +474,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -497,7 +497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 130097124}
   - component: {fileID: 130097125}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -511,11 +511,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 130097123}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 6, z: 24.38}
+  m_LocalPosition: {x: -1, y: 6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 38
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &130097125
 SpriteRenderer:
@@ -549,10 +549,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -572,7 +572,7 @@ GameObject:
   m_Component:
   - component: {fileID: 137875017}
   - component: {fileID: 137875018}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -586,11 +586,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 137875016}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 5, z: 24.38}
+  m_LocalPosition: {x: -1, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 37
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &137875018
 SpriteRenderer:
@@ -624,10 +624,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -647,7 +647,7 @@ GameObject:
   m_Component:
   - component: {fileID: 155180699}
   - component: {fileID: 155180700}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -661,11 +661,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 155180698}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 3, z: 24.38}
+  m_LocalPosition: {x: -1, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 35
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &155180700
 SpriteRenderer:
@@ -699,10 +699,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -722,7 +722,7 @@ GameObject:
   m_Component:
   - component: {fileID: 168354767}
   - component: {fileID: 168354768}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -736,11 +736,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 168354766}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: -3, z: 24.38}
+  m_LocalPosition: {x: -1, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 28
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &168354768
 SpriteRenderer:
@@ -774,10 +774,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -797,7 +797,7 @@ GameObject:
   m_Component:
   - component: {fileID: 183189493}
   - component: {fileID: 183189494}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -811,11 +811,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 183189492}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 4, z: 24.38}
+  m_LocalPosition: {x: -1, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 36
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &183189494
 SpriteRenderer:
@@ -849,10 +849,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -872,7 +872,7 @@ GameObject:
   m_Component:
   - component: {fileID: 209515614}
   - component: {fileID: 209515615}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -886,11 +886,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 209515613}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 2, z: 24.38}
+  m_LocalPosition: {x: 1, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 21
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &209515615
 SpriteRenderer:
@@ -924,10 +924,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -947,7 +947,7 @@ GameObject:
   m_Component:
   - component: {fileID: 230744924}
   - component: {fileID: 230744925}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -961,11 +961,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 230744923}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -5, z: 24.38}
+  m_LocalPosition: {x: -2, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 44
+  m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &230744925
 SpriteRenderer:
@@ -999,10 +999,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1022,7 +1022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 310627355}
   - component: {fileID: 310627356}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1036,11 +1036,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 310627354}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: -2, z: 24.38}
+  m_LocalPosition: {x: 2, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 55
+  m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &310627356
 SpriteRenderer:
@@ -1074,10 +1074,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1097,7 +1097,7 @@ GameObject:
   m_Component:
   - component: {fileID: 331790991}
   - component: {fileID: 331790992}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1111,11 +1111,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 331790990}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 6, z: 24.38}
+  m_LocalPosition: {x: 2, y: 6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 64
+  m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &331790992
 SpriteRenderer:
@@ -1149,10 +1149,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1172,7 +1172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 344353226}
   - component: {fileID: 344353227}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1186,11 +1186,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 344353225}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: -5, z: 24.38}
+  m_LocalPosition: {x: -1, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 31
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &344353227
 SpriteRenderer:
@@ -1224,10 +1224,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1247,7 +1247,7 @@ GameObject:
   m_Component:
   - component: {fileID: 371428501}
   - component: {fileID: 371428502}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1261,11 +1261,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 371428500}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 4, z: 24.38}
+  m_LocalPosition: {x: 2, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 62
+  m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &371428502
 SpriteRenderer:
@@ -1299,10 +1299,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1322,7 +1322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 373369910}
   - component: {fileID: 373369911}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1336,11 +1336,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 373369909}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 6, z: 24.38}
+  m_LocalPosition: {x: -2, y: 6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 51
+  m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &373369911
 SpriteRenderer:
@@ -1374,10 +1374,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1397,7 +1397,7 @@ GameObject:
   m_Component:
   - component: {fileID: 392107517}
   - component: {fileID: 392107518}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1411,11 +1411,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 392107516}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: -1, z: 24.38}
+  m_LocalPosition: {x: -1, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &392107518
 SpriteRenderer:
@@ -1449,10 +1449,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1472,7 +1472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 447664231}
   - component: {fileID: 447664232}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1486,11 +1486,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 447664230}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: -1, z: 24.38}
+  m_LocalPosition: {x: 2, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 52
+  m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &447664232
 SpriteRenderer:
@@ -1524,10 +1524,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1547,7 +1547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 456056461}
   - component: {fileID: 456056462}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1561,11 +1561,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 456056460}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 5, z: 24.38}
+  m_LocalPosition: {x: 0, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &456056462
 SpriteRenderer:
@@ -1599,10 +1599,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1622,7 +1622,7 @@ GameObject:
   m_Component:
   - component: {fileID: 484796662}
   - component: {fileID: 484796663}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1636,11 +1636,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 484796661}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 0, z: 24.38}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &484796663
 SpriteRenderer:
@@ -1674,10 +1674,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1721,7 +1721,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.64705884, g: 0.70473015, b: 0.94509804, a: 1}
+  m_BackGroundColor: {r: 0.18503025, g: 0.24905722, b: 0.509434, a: 1}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
@@ -1759,11 +1759,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 2, y: 6, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &596448662
 GameObject:
@@ -1774,7 +1774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 596448663}
   - component: {fileID: 596448664}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1788,11 +1788,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 596448662}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: -6, z: 24.38}
+  m_LocalPosition: {x: 0, y: -6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &596448664
 SpriteRenderer:
@@ -1826,10 +1826,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1849,7 +1849,7 @@ GameObject:
   m_Component:
   - component: {fileID: 607670670}
   - component: {fileID: 607670671}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1863,11 +1863,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 607670669}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 1, z: 24.38}
+  m_LocalPosition: {x: 1, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &607670671
 SpriteRenderer:
@@ -1901,10 +1901,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1924,7 +1924,7 @@ GameObject:
   m_Component:
   - component: {fileID: 620689254}
   - component: {fileID: 620689255}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1938,11 +1938,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 620689253}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 0, z: 24.38}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &620689255
 SpriteRenderer:
@@ -1976,10 +1976,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1999,7 +1999,7 @@ GameObject:
   m_Component:
   - component: {fileID: 688250171}
   - component: {fileID: 688250172}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2013,11 +2013,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 688250170}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 1, z: 24.38}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &688250172
 SpriteRenderer:
@@ -2051,10 +2051,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2074,7 +2074,7 @@ GameObject:
   m_Component:
   - component: {fileID: 716164750}
   - component: {fileID: 716164751}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2088,11 +2088,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 716164749}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: -4, z: 24.38}
+  m_LocalPosition: {x: 0, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &716164751
 SpriteRenderer:
@@ -2126,10 +2126,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2149,7 +2149,7 @@ GameObject:
   m_Component:
   - component: {fileID: 761727848}
   - component: {fileID: 761727849}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2163,11 +2163,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 761727847}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 0, z: 24.38}
+  m_LocalPosition: {x: -1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 27
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &761727849
 SpriteRenderer:
@@ -2201,10 +2201,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2224,7 +2224,7 @@ GameObject:
   m_Component:
   - component: {fileID: 767834864}
   - component: {fileID: 767834865}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2238,11 +2238,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 767834863}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: -2, z: 24.38}
+  m_LocalPosition: {x: 0, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &767834865
 SpriteRenderer:
@@ -2276,10 +2276,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2299,7 +2299,7 @@ GameObject:
   m_Component:
   - component: {fileID: 813509983}
   - component: {fileID: 813509984}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2313,11 +2313,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 813509982}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 1, z: 24.38}
+  m_LocalPosition: {x: -1, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 33
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &813509984
 SpriteRenderer:
@@ -2351,10 +2351,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2374,7 +2374,7 @@ GameObject:
   m_Component:
   - component: {fileID: 859976939}
   - component: {fileID: 859976940}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2388,11 +2388,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 859976938}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: -5, z: 24.38}
+  m_LocalPosition: {x: 1, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &859976940
 SpriteRenderer:
@@ -2426,10 +2426,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2449,7 +2449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 893237756}
   - component: {fileID: 893237757}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2463,11 +2463,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 893237755}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -2, z: 24.38}
+  m_LocalPosition: {x: -2, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 42
+  m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &893237757
 SpriteRenderer:
@@ -2501,10 +2501,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2524,7 +2524,7 @@ GameObject:
   m_Component:
   - component: {fileID: 895150336}
   - component: {fileID: 895150337}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2538,11 +2538,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 895150335}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 3, z: 24.38}
+  m_LocalPosition: {x: 1, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 22
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &895150337
 SpriteRenderer:
@@ -2576,10 +2576,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2599,7 +2599,7 @@ GameObject:
   m_Component:
   - component: {fileID: 909745583}
   - component: {fileID: 909745584}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2613,11 +2613,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 909745582}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: -4, z: 24.38}
+  m_LocalPosition: {x: 2, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 56
+  m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &909745584
 SpriteRenderer:
@@ -2651,10 +2651,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2674,7 +2674,7 @@ GameObject:
   m_Component:
   - component: {fileID: 916350345}
   - component: {fileID: 916350346}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2688,11 +2688,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 916350344}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: -6, z: 24.38}
+  m_LocalPosition: {x: 2, y: -6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 58
+  m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &916350346
 SpriteRenderer:
@@ -2726,10 +2726,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2740,6 +2740,61 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &976602452 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114891302532715466, guid: 8d33a76fb1985c644b4727e7ad6aaf50,
+    type: 2}
+  m_PrefabInternal: {fileID: 1249251415}
+  m_Script: {fileID: 11500000, guid: 3071bd8ed686bee48b7008a34001cdb9, type: 3}
+--- !u!1 &1002159591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1002159593}
+  - component: {fileID: 1002159592}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1002159592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1002159591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fd91263e7676fc469245b5c0155f2ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TileSprites: {fileID: 11400000, guid: 21bcb3ea9507da04197509ea4c44ecc7, type: 2}
+  TilePrefab: {fileID: 114636708087372560, guid: bf855216e6074be47b5429fa0edcdf61,
+    type: 2}
+  TileTrioController: {fileID: 976602452}
+  tileDropTime: 0.5
+  TrioSpawnPosition: {x: 2, y: 12, z: 0}
+  StartFallingSpeed: 1
+  NextFreeColumnRow: 0000000000000000000000000000000000000000
+  droppingTiles: []
+--- !u!4 &1002159593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1002159591}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 12, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1012079034
 GameObject:
   m_ObjectHideFlags: 0
@@ -2749,7 +2804,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1012079035}
   - component: {fileID: 1012079036}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2763,11 +2818,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1012079034}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 1, z: 24.38}
+  m_LocalPosition: {x: 2, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 59
+  m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1012079036
 SpriteRenderer:
@@ -2801,10 +2856,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2824,7 +2879,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1015365381}
   - component: {fileID: 1015365382}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2838,11 +2893,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1015365380}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: -2, z: 24.38}
+  m_LocalPosition: {x: -1, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 29
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1015365382
 SpriteRenderer:
@@ -2876,10 +2931,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2899,7 +2954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1051027066}
   - component: {fileID: 1051027067}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2913,11 +2968,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1051027065}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: -2, z: 24.38}
+  m_LocalPosition: {x: 1, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1051027067
 SpriteRenderer:
@@ -2951,10 +3006,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2974,7 +3029,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1130953426}
   - component: {fileID: 1130953427}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2988,11 +3043,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1130953425}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: -1, z: 24.38}
+  m_LocalPosition: {x: 1, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1130953427
 SpriteRenderer:
@@ -3026,10 +3081,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3049,7 +3104,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1152557471}
   - component: {fileID: 1152557472}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3063,11 +3118,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1152557470}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 2, z: 24.38}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1152557472
 SpriteRenderer:
@@ -3101,10 +3156,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3124,7 +3179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1211647828}
   - component: {fileID: 1211647829}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3138,11 +3193,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1211647827}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 4, z: 24.38}
+  m_LocalPosition: {x: 0, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1211647829
 SpriteRenderer:
@@ -3176,10 +3231,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3190,81 +3245,53 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1223296578
-GameObject:
+--- !u!1001 &1249251415
+Prefab:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1223296579}
-  - component: {fileID: 1223296580}
-  m_Layer: 0
-  m_Name: Gems_01_256x256_003
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1223296579
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1223296578}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: -1, z: 24.38}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1972783272}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1223296580
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1223296578}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 4294967295
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.56, y: 2.56}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4386891994384848, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114891302532715466, guid: 8d33a76fb1985c644b4727e7ad6aaf50,
+        type: 2}
+      propertyPath: Manager
+      value: 
+      objectReference: {fileID: 1002159592}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d33a76fb1985c644b4727e7ad6aaf50, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1275233015
 GameObject:
   m_ObjectHideFlags: 0
@@ -3274,7 +3301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1275233016}
   - component: {fileID: 1275233017}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3288,11 +3315,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1275233015}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 3, z: 24.38}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1275233017
 SpriteRenderer:
@@ -3326,10 +3353,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3349,7 +3376,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1332539416}
   - component: {fileID: 1332539417}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3363,11 +3390,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1332539415}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 5, z: 24.38}
+  m_LocalPosition: {x: 1, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 24
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1332539417
 SpriteRenderer:
@@ -3401,10 +3428,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3424,7 +3451,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1370963336}
   - component: {fileID: 1370963337}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3438,11 +3465,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1370963335}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 3, z: 24.38}
+  m_LocalPosition: {x: 2, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 61
+  m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1370963337
 SpriteRenderer:
@@ -3476,10 +3503,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3499,7 +3526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1371349811}
   - component: {fileID: 1371349812}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3513,11 +3540,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1371349810}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: -6, z: 24.38}
+  m_LocalPosition: {x: 1, y: -6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1371349812
 SpriteRenderer:
@@ -3551,10 +3578,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3574,7 +3601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1449908844}
   - component: {fileID: 1449908845}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3588,11 +3615,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1449908843}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 6, z: 24.38}
+  m_LocalPosition: {x: 0, y: 6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1449908845
 SpriteRenderer:
@@ -3626,10 +3653,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3649,7 +3676,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1475631592}
   - component: {fileID: 1475631593}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3663,11 +3690,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1475631591}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: -3, z: 24.38}
+  m_LocalPosition: {x: 2, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 54
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1475631593
 SpriteRenderer:
@@ -3701,10 +3728,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3724,7 +3751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1484255428}
   - component: {fileID: 1484255429}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3738,11 +3765,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1484255427}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: -4, z: 24.38}
+  m_LocalPosition: {x: 1, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1484255429
 SpriteRenderer:
@@ -3776,10 +3803,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3799,7 +3826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1522919087}
   - component: {fileID: 1522919088}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3813,11 +3840,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1522919086}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 4, z: 24.38}
+  m_LocalPosition: {x: 1, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 23
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1522919088
 SpriteRenderer:
@@ -3851,10 +3878,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3874,7 +3901,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1588411866}
   - component: {fileID: 1588411867}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3888,11 +3915,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1588411865}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: -5, z: 24.38}
+  m_LocalPosition: {x: 2, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 57
+  m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1588411867
 SpriteRenderer:
@@ -3926,10 +3953,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3949,7 +3976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1609275269}
   - component: {fileID: 1609275270}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3963,11 +3990,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1609275268}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -1, z: 24.38}
+  m_LocalPosition: {x: -2, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 39
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1609275270
 SpriteRenderer:
@@ -4001,10 +4028,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4024,7 +4051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1619064118}
   - component: {fileID: 1619064119}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4038,11 +4065,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1619064117}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 0, z: 24.38}
+  m_LocalPosition: {x: 2, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 53
+  m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1619064119
 SpriteRenderer:
@@ -4076,10 +4103,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4099,7 +4126,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1661957244}
   - component: {fileID: 1661957245}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4113,11 +4140,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1661957243}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 5, z: 24.38}
+  m_LocalPosition: {x: -2, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 50
+  m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1661957245
 SpriteRenderer:
@@ -4151,10 +4178,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4174,7 +4201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1663391203}
   - component: {fileID: 1663391204}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4188,11 +4215,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1663391202}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -6, z: 24.38}
+  m_LocalPosition: {x: -2, y: -6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 45
+  m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1663391204
 SpriteRenderer:
@@ -4226,10 +4253,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4249,7 +4276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1664790587}
   - component: {fileID: 1664790588}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4263,11 +4290,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1664790586}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: -6, z: 24.38}
+  m_LocalPosition: {x: -1, y: -6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 32
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1664790588
 SpriteRenderer:
@@ -4301,10 +4328,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4324,7 +4351,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1707866431}
   - component: {fileID: 1707866432}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4338,11 +4365,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1707866430}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.93, y: -4, z: 24.38}
+  m_LocalPosition: {x: -1, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 30
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1707866432
 SpriteRenderer:
@@ -4376,10 +4403,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4399,7 +4426,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1722727269}
   - component: {fileID: 1722727270}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4413,11 +4440,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1722727268}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: -3, z: 24.38}
+  m_LocalPosition: {x: 0, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1722727270
 SpriteRenderer:
@@ -4451,10 +4478,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4474,7 +4501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1728418781}
   - component: {fileID: 1728418782}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4488,11 +4515,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1728418780}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 5, z: 24.38}
+  m_LocalPosition: {x: 2, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 63
+  m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1728418782
 SpriteRenderer:
@@ -4526,10 +4553,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4549,7 +4576,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1753272685}
   - component: {fileID: 1753272686}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4563,11 +4590,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1753272684}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 3, z: 24.38}
+  m_LocalPosition: {x: -2, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 48
+  m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1753272686
 SpriteRenderer:
@@ -4601,10 +4628,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4624,7 +4651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1863022318}
   - component: {fileID: 1863022319}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4638,11 +4665,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1863022317}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 1, z: 24.38}
+  m_LocalPosition: {x: -2, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 46
+  m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1863022319
 SpriteRenderer:
@@ -4676,10 +4703,85 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.56, y: 2.56}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1886176466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1886176467}
+  - component: {fileID: 1886176468}
+  m_Layer: 8
+  m_Name: Gems_01_256x256_003 (65)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1886176467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1886176466}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1972783272}
+  m_RootOrder: 64
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1886176468
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1886176466}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4764,7 +4866,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1961932028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -7, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4792,10 +4894,9 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1972783271}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.07, y: 0, z: -24.38}
+  m_LocalPosition: {x: 2, y: 6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1223296579}
   - {fileID: 484796662}
   - {fileID: 1722727269}
   - {fileID: 767834864}
@@ -4860,8 +4961,9 @@ Transform:
   - {fileID: 371428501}
   - {fileID: 1728418781}
   - {fileID: 331790991}
+  - {fileID: 1886176467}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1991155204
 GameObject:
@@ -4872,7 +4974,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1991155205}
   - component: {fileID: 1991155206}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4886,11 +4988,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1991155204}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 0, z: 24.38}
+  m_LocalPosition: {x: -2, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 40
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1991155206
 SpriteRenderer:
@@ -4924,10 +5026,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4947,7 +5049,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1996750838}
   - component: {fileID: 1996750839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4961,11 +5063,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1996750837}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 2, z: 24.38}
+  m_LocalPosition: {x: 2, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 60
+  m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1996750839
 SpriteRenderer:
@@ -4999,10 +5101,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5022,7 +5124,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2009032910}
   - component: {fileID: 2009032911}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5036,11 +5138,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2009032909}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: 2, z: 24.38}
+  m_LocalPosition: {x: -2, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 47
+  m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2009032911
 SpriteRenderer:
@@ -5074,10 +5176,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5097,7 +5199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2067807787}
   - component: {fileID: 2067807788}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5111,11 +5213,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2067807786}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: -5, z: 24.38}
+  m_LocalPosition: {x: 0, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2067807788
 SpriteRenderer:
@@ -5149,10 +5251,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5172,7 +5274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2097049852}
   - component: {fileID: 2097049853}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gems_01_256x256_003 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5186,11 +5288,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2097049851}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -3, z: 24.38}
+  m_LocalPosition: {x: -2, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1972783272}
-  m_RootOrder: 41
+  m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2097049853
 SpriteRenderer:
@@ -5224,10 +5326,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987262557
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
+  m_Sprite: {fileID: 21300024, guid: 071e7e89fc18dc248aab8b1cc0c95e90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

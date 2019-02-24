@@ -39,11 +39,11 @@ public class TileTrioController : MonoBehaviour
 
 	    if (Input.GetKey(KeyCode.DownArrow) && CanFallInColumn(CurrentColumnIndex))
 	    {
-	        transform.Translate(Vector3.down * DropSpeed * Time.deltaTime);
+	        transform.Translate(Vector3.down * DropSpeed * Time.smoothDeltaTime);
         }
 	    else if(CanFallInColumn(CurrentColumnIndex))
 	    {
-	        transform.Translate(Vector3.down * FallingSpeed * Time.deltaTime);
+	        transform.Translate(Vector3.down * FallingSpeed * Time.smoothDeltaTime);
         }
 	    else
 	    {
