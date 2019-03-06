@@ -14,7 +14,7 @@ MonoBehaviour:
   TileSprites:
   - Sprite: {fileID: 21300000, guid: e3d4d3e8b9baa7b48b653605960afe1d, type: 3}
     Color: 0
-  - Sprite: {fileID: 21300000, guid: 962d47a6fe390854b9e16b0bba1dc0b1, type: 3}
+  - Sprite: {fileID: 21300000, guid: 8e82e0a07eb750e4db0964ceac024cc1, type: 3}
     Color: 6
   - Sprite: {fileID: 21300000, guid: 15853d7b6d0cb3f48bb262277e16244f, type: 3}
     Color: 2
@@ -24,5 +24,5 @@ MonoBehaviour:
     Color: 4
   - Sprite: {fileID: 21300000, guid: 1e4f28ca5b349cf4a95baaf7a2cb2eb3, type: 3}
     Color: 5
-  - Sprite: {fileID: 21300000, guid: 8e82e0a07eb750e4db0964ceac024cc1, type: 3}
+  - Sprite: {fileID: 21300000, guid: 962d47a6fe390854b9e16b0bba1dc0b1, type: 3}
     Color: 1
